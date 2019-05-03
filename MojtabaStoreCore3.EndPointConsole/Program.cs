@@ -33,8 +33,7 @@ namespace MojtabaStoreCore3.EndPointConsole
             //ctx.Add(student);
             //ctx.SaveChanges();
             Console.ReadLine();
-            Console.Write("Just Test for that fucking github is gonna to push to remote repository or just need to fuck  Linus fucking Torvalds");
-            Console.ReadKey();
+            
 
         }
 
